@@ -23,6 +23,7 @@ namespace Rossi_semaforo_bin
                 while (t1.IsAlive) { }
                 while (t2.IsAlive) { }
                 Console.WriteLine(n);
+
             }
         }
         private static void Incrementa()
